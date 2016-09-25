@@ -48,7 +48,7 @@ Written assignments must be word processed and spell- and grammar-checked.
 ## Participation ##
 Because of the emphasis on collaboration in this class it is critical that you attend regularly and actively engage in the classroom work.
 
-## Project ## 
+## Project
 
 There will be a final, cumulative project. Details will be announced later in the term.
 
