@@ -3,7 +3,7 @@ This first assignment is meant to ease you into back into things. Using the text
 
 Also, style your page using CSS. Again, the [MDN CSS page](https://developer.mozilla.org/en-US/docs/Web/CSS) is your friend. Apply styles to format the page. Try adding dropcaps or extra large first letters where they seem appropriate. Use CSS to make interesting changes to your page such as adding animations or transitions. Do you remember how to use transform? Translate? Rotate? Now is the time to experiment and dust off those cobwebs. And. most importantly, *have fun!*
 
-**Due October 3.** Be prepared to present your site and discuss the techniques you experimented with and why you chose them.
+**Due October 3 at 10:00 a.m.** Be prepared to present your site and discuss the techniques you experimented with and why you chose them.
 
 # flexbox #
 
