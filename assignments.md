@@ -13,11 +13,28 @@ September 19 marks International Talk Like A Pirate Day. Although we missed it t
 
 **Due October 12 at 10:00 a.m.**
 
+# GitHub and Flexbox
+
+Watch Daniel Shiffman's [series on Git and Github](https://youtu.be/BCQHnlnPusY?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV).
+
+Create a Github account and post all the assignments you've done so far to it, then email me a link to your repos so I can view and grade them.
+
+** Due October 14 by 12:00 p.m. **
+
+Next, watch The Net Ninja's [series on CSS Flexbox](https://youtu.be/Y8zMYaD1bz0?list=PL4cUxeGkcC9i3FXJSUfmsNOx8E7u6UuhG). Flexbox is a new CSS module that gives us a new mechanism for laying out content on our pages. As [caniuse.com](http://caniuse.com/#search=flexbox) tells us has broad support today. If you remember the pain of laying elements out with `position` and `float` then you'll see why flexbos is so exciting!
+
+Build a web page using flexbox for layout that creates a [Holy Grail design](https://en.wikipedia.org/wiki/Holy_Grail_(web_design)). Your content area should contain enough content to cause the page to scroll at least one screenfull. Use real content, perhaps your Miss Baker work? For an extra challenge use CSS Columns to format your content into newspaper-like columns that wrap and fill your page neatly. You page should also be responsive and work equally well on large, small, and mobile screens.
+
+* [MDN on Flexbox](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Using_CSS_flexible_boxes)
+* [MDN on CSS Columns](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Columns/Using_multi-column_layouts)
+
+** Due October 19 by 10:00 a.m. **
+
+** Question: ** Should we keep meeting regularly? 
+
+--------
+
 # Upcoming Topics
-
-## flexbox
-
-## GitHub
 
 ## jQuery
 
