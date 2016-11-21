@@ -1,11 +1,11 @@
-# Miss Baker
+# Assignment 1 - Miss Baker
 This first assignment is meant to ease you into back into things. Using the text and image provided in the `miss_baker` directory of this repo create a web page using symantic HTML. Be sure to mark up the page fully and don't be afraid of over complicating it. Visit the [MDN HTML Element Reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element) to refresh your memory. Look for opportunities to use tags you never have before.
 
 Also, style your page using CSS. Again, the [MDN CSS page](https://developer.mozilla.org/en-US/docs/Web/CSS) is your friend. Apply styles to format the page. Try adding dropcaps or extra large first letters where they seem appropriate. Use CSS to make interesting changes to your page such as adding animations or transitions. Do you remember how to use transform? Translate? Rotate? Now is the time to experiment and dust off those cobwebs. And. most importantly, *have fun!*
 
 **Due October 3 at 10:00 a.m.** Be prepared to present your site and discuss the techniques you experimented with and why you chose them.
 
-# Regular Expressions
+# Assignment 2 - Regular Expressions
 
 Watch Daniel Shiffman's [series on regular expressions](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6YEypLuls7iidwHMdCM6o2w). 
 
@@ -13,7 +13,7 @@ September 19 marks International Talk Like A Pirate Day. Although we missed it t
 
 **Due October 12 at 10:00 a.m.**
 
-# GitHub and Flexbox
+# Assignment 3 - GitHub and Holy Grail
 
 Watch Daniel Shiffman's [series on Git and Github](https://youtu.be/BCQHnlnPusY?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV).
 
@@ -30,18 +30,8 @@ Build a web page using flexbox for layout that creates a [Holy Grail design](htt
 
 **Due October 19 by 10:00 a.m.**
 
---------
-
-# Upcoming Topics
-
-## jQuery
-
-## ajax
-
-## DOM manipulation
-
-## HTML frameworks
-
-## Node.js
-
-# not Galaga
+# Assignment 4 - javascripting
+# Assignment 5 - scope, chains, and closures
+# Assignment 6 - count-to-6
+# Assignment 7 - tower of bable
+# Assignment 8 - planet proto
