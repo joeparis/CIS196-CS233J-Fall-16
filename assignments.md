@@ -34,4 +34,10 @@ Build a web page using flexbox for layout that creates a [Holy Grail design](htt
 # Assignment 5 - scope, chains, and closures
 # Assignment 6 - count-to-6
 # Assignment 7 - tower of bable
-# Assignment 8 - planet proto
+# Assignment 8 - gulp
+
+Using the Miss Baker site we developed in class (and available in a repo on Github): 
+
+* add at least two JavaScript files to your page, be sure to use ES6 functionality to perform whatever operations you decide on
+* write Gulp task(s) that monitor your JavaScript for changes and upon seeing them runs babel to transpile to ES5, bundles them, and minifies them (be sure to link to the bundled JS file in your index.html file
+* optimize all the images in the `images` folder and write them to `dist\images`
